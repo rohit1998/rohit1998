@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohit1998
 - 👀 I’m interested in Machine Learning and Data Science. 
-- 🌱 I’m currently learning Graph Representation Learning
-- 💞️ I’m looking to collaborate on Graph Representation Learning and Algo Trading
+- 🌱 I’m currently learning search and recommentaion systems.
+- 💞️ I’m looking to collaborate on Graph Representation Learning, search and recommentaion systems and Algo Trading
 - 📫 How to reach me gupta.rohit21198@gmail.com
 
 <!---
